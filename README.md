@@ -1,2 +1,2 @@
-# coin
-Cryptocurrency Exchange Platform
+# Crypto-Ecxhange
+Cryptocurrency Exchange Platform made as graduation project.
